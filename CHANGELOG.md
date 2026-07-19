@@ -1,3 +1,10 @@
+# [1.1.0](https://github.com/CoCreate-app/CoCreate-mariadb/compare/v1.0.0...v1.1.0) (2026-07-19)
+
+
+### Features
+
+* Update README.md to reflect MariaDB integration and enhance documentation ([886aff9](https://github.com/CoCreate-app/CoCreate-mariadb/commit/886aff92e74d086c15fd19ed1f8379b75c4f565b))
+
 # 1.0.0 (2026-07-18)
 
 
