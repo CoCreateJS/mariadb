@@ -1,3 +1,10 @@
+## [1.1.1](https://github.com/CoCreate-app/CoCreate-mariadb/compare/v1.1.0...v1.1.1) (2026-07-19)
+
+
+### Bug Fixes
+
+* set default branch to main ([b1c82c7](https://github.com/CoCreate-app/CoCreate-mariadb/commit/b1c82c711cbcc9a09dcb75f956858c06c9614b0d))
+
 # [1.1.0](https://github.com/CoCreate-app/CoCreate-mariadb/compare/v1.0.0...v1.1.0) (2026-07-19)
 
 
