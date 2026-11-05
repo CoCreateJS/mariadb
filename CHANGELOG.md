@@ -1,3 +1,10 @@
+## [2.0.1](https://github.com/CoCreateJS/mariadb/compare/v2.0.0...v2.0.1) (2026-11-05)
+
+
+### Bug Fixes
+
+* upgrade CoCreate dependencies to v2 ([c2065b7](https://github.com/CoCreateJS/mariadb/commit/c2065b7bc6f13b5797553626bbd05117a18e7c91))
+
 # [2.0.0](https://github.com/CoCreateJS/mariadb/compare/v1.1.1...v2.0.0) (2026-11-02)
 
 
